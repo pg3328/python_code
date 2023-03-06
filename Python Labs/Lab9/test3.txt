@@ -1,0 +1,9 @@
+cow Daisy 13 12.5
+cow Penny 4 5
+cow Rosie 4 6
+cow Snowflake 7.5 9.5
+cow Sprinkles 2.7 3.2
+paintball BLUE 15 15 20
+paintball YELLOW 14.5 14.5 1
+paintball WHITE 6.5 7.2 3
+paintball RED 2.5 3.7 4

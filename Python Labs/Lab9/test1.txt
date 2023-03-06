@@ -1,0 +1,9 @@
+cow Clarabelle 2 4
+cow Guinness 3 5
+cow Milka 8 3
+cow Fauntleroy 7 2
+paintball YELLOW 3 4 3
+paintball WHITE 8 1 3
+paintball BLUE 10 4 2
+paintball ORANGE 12 4 1.8
+paintball PURPLE 12 5.5 3

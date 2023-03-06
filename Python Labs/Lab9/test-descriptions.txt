@@ -1,0 +1,21 @@
+Test 1 description -
+Two colors YELLOW and WHITE paints equal number of cows.
+There is a cycle between four colors - BLUE, ORANGE, PURPLE
+BLUE triggers ORANGE, ORANGE triggers PURPLE, PURPLE triggers both ORANGE and BLUE.
+This will test whether visited nodes are marked properly and does end in infinite loop.
+Float co-ordinates are present to make sure they are working as expected.
+
+Test 2 description -
+None of the cows are within radius distance of any paintball.
+But there are paint-balls within range of other paint-balls.
+The paint-ball should be triggered by the other paint-balls but output should indicate that none of the cows are painted.
+Also there are two paint-balls within radius of each other. The run should not get in the circular loop and simulation needs to end.
+
+Test 3 description -
+
+There are some cows which are not within radius of any paintball other than the giant paintball at the center.
+There are some paint-balls which does not trigger any other paint-balls and does not paint any cows.
+There's one giant paint ball which paint all the cows and triggers all the paint-balls.
+This tests that graph works together well with all the border cases in the same run.
+One of the cow(PENNY) which is diagonal distance from paintball(WHITE) which tests the distance formula.
+Float co-ordinates are present to make sure they are working as expected.
